@@ -1,0 +1,3 @@
+[submodule "ASstdlib"]
+	path = ASstdlib
+	url = git@github.com:saracalihan/ASstdlib.git
